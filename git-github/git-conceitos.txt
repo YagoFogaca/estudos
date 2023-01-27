@@ -1,0 +1,28 @@
+Branch:
+ - São ramisifações do nosso projeto. 
+ Ex: Estamos desenvolvendo um projeto de html e css, 
+ e no primeiro dia desenvolvemos o cabeçalho e fazemos 
+ o versionamento no github, no outro o corpo do site e 
+ assim por diante. Com isso temos uma linha cronologia
+ e isso gera um problema quando estamos trabalhando em 
+ um projeto grande, pois a varias pessoas trablhando nele.
+ E é ai que entra o conceito de Branch que é a ramificação
+ da linha cronologica principal.
+ Uma imagem de exemplo: https://miro.medium.com/max/1400/0*SRbUmfhnrB-Ni_8f.
+
+ Commit:
+ - Postei as alterações do projeto, e nele podemos colocar ]
+ um mensagenm do que fizemos naquele Commit.
+
+ Merge: 
+ - Junção da branch (Uma ramificação) com a branch principal
+ Ou outra branch qualquer.
+
+ Remote: 
+ - Permite a conexão do repo local com o remoto
+
+ Push: 
+ - O que de fato manda o commit para o Remote
+
+ Pull:
+ - Puxa a versão que eu quero no repo
