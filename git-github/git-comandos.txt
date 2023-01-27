@@ -1,0 +1,21 @@
+- git init
+ Para inicial um repositorio git vazio
+
+- git add
+ Marca os arquivo como preparado para o commit
+ Podemos usar git add . para preparar todos os arquivos
+
+- git status
+ Para ver o status do repositorio, ser quais arquivos
+ estão preparados, quais sofrearam alterações e etc
+
+- git commit -m "MSG AQUI"
+ Para fazer o commit e o -m para escrever daquele commit
+
+- git remote add origin <link-do-repo.github>
+ Fazer a conexão com repo local com o remoto
+
+- git push -u origin main
+ Mandar de fato pro repo remoto na branch main
+
+- 
