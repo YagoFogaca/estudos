@@ -19,6 +19,7 @@
  Mandar de fato pro repo remoto na branch main
 
 - git checkout <nome_da_branch>
- Para trovar de branchs
+ Para trocar de branchs
+
 - git checkout -b "nome-branch"
  Criar e entrar na nova branch
