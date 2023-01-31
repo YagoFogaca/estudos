@@ -24,4 +24,4 @@
 - git checkout <nome_da_branch>
  Para trocar de branchs
 
-
+- git merge <nome_da_branch>
