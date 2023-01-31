@@ -18,10 +18,10 @@
 - git push -u origin main
  Mandar de fato pro repo remoto na branch main
 
-- git checkout <nome_da_branch>
- Para trocar de branchs
-
 - git checkout -b "nome-branch"
  Criar e entrar na nova branch
+
+- git checkout <nome_da_branch>
+ Para trocar de branchs
 
 
